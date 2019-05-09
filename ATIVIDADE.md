@@ -2,11 +2,11 @@ Utilização de Títulos, Subtítulos, itens e códigos no Markdown.
 
 É possível definir o nível do título usando uma ou mais hashtags antes do texto.
 
-#Titulo1
+# Titulo1
 
-##Subtítulo1
+## Subtítulo1
 
-###Subtítulo2
+### Subtítulo2
 
 
 Os itens podem ser utilizados de forma não ordenada ou ordenada.
