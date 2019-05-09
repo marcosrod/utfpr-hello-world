@@ -60,14 +60,17 @@ int main () {
 
 	Para isso, digita-se a linguagem logo após o início do bloco:
 
-```c int main () {
+```c 
+int main () {
 
 	int nmr = 0;
 	
 	scanf("%d", &nmr;);
 	printf("Numero digitado = %d", nmr);
 	
-	return 0; 
+	return 0;
+
+}	
 
 ```
 
