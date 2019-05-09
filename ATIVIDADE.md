@@ -14,7 +14,7 @@
 
 
 
-	### Os itens podem ser utilizados de forma não ordenada ou ordenada.
+### Os itens podem ser utilizados de forma não ordenada ou ordenada.
 
 	Para criar uma lista não ordenada é possível utilizar o asterisco, o sinal de mais e o sinal de menos antes do 
 	texto:
@@ -34,7 +34,7 @@
 
 
 
-	### Pode-se delimitar códigos por linhas ou blocos:
+### Pode-se delimitar códigos por linhas ou blocos:
 
 	Para utilizar códigos na mesma linha, eles devem estar entre duas crases:
 
@@ -71,5 +71,5 @@ int main () {
 
 ```
 
-	#### Enfim, utilizando esses comandos, é possível editar seus textos em markdown, inserindo títulos, subtítulos, itens e códigos.
+#### Enfim, utilizando esses comandos, é possível editar seus textos em markdown, inserindo títulos, subtítulos, itens e códigos.
 
