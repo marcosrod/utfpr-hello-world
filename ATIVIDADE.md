@@ -27,9 +27,9 @@
 
 	Para ordenar itens basta utilizar um número e um ponto antes do texto:
 
-1.Item ordenado um
-2.Item ordenado dois
-3.Item ordenado três
+1. Item ordenado um
+2. Item ordenado dois
+3. Item ordenado três
 
 
 
