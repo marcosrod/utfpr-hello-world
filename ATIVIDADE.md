@@ -1,17 +1,17 @@
-Utilização de Títulos, Subtítulos, itens e códigos no Markdown.
+Utilização de Títulos, Subtítulos, itens e códigos no Markdown.<br />
 
-É possível definir o nível do título usando uma ou mais hashtags antes do texto.
+É possível definir o nível do título usando uma ou mais hashtags antes do texto.<br />
 
-# Titulo1
+# Titulo1<br />
 
-## Subtítulo1
+## Subtítulo1<br />
 
-### Subtítulo2
+### Subtítulo2<br />
 
 
-Os itens podem ser utilizados de forma não ordenada ou ordenada.
+Os itens podem ser utilizados de forma não ordenada ou ordenada.<br />
 
-Para criar uma lista não ordenada é possível utilizar o asterisco, o sinal de mais e o sinal de menos antes do texto:
+Para criar uma lista não ordenada é possível utilizar o asterisco, o sinal de mais e o sinal de menos antes do texto:<br />
 
 * Item não ordenado um
 * Item não ordenado dois
