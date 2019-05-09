@@ -16,8 +16,8 @@
 
 ### Os itens podem ser utilizados de forma não ordenada ou ordenada.
 
-	Para criar uma lista não ordenada é possível utilizar o asterisco, o sinal de mais e o sinal de menos antes do 
-	texto:
+	Para criar uma lista não ordenada é possível utilizar o asterisco, o sinal de mais e o sinal de menos 
+	antes do texto:
 
 * Item não ordenado um
 * Item não ordenado dois
@@ -27,9 +27,9 @@
 
 	Para ordenar itens basta utilizar um número e um ponto antes do texto:
 
-1. Item ordenado um
-2. Item ordenado dois
-3. Item ordenado três
+1.Item ordenado um
+2.Item ordenado dois
+3.Item ordenado três
 
 
 
